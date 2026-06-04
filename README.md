@@ -66,6 +66,10 @@ Next Character Prediction
 
 Training was done on **GPU** (Google Colab) for the scaled model.
 
+![Training Loss Curve](loss_curve.png)
+
+![Model Comparison](model_comparison.png)
+
 ---
 
 ## 🚀 How to Run
